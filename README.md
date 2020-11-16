@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Lazada Group (moving to ByteDance in a week LOL)
+- 🔭 I’m currently working at ByteDance
 - 😄 Pronouns: Frontend / Data / SaaS / DaaS / Engineering Tool
 - ⚡ Fun fact: I am not a good programmer cause I know too many genius.
 
